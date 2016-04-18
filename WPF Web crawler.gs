@@ -55,5 +55,5 @@ current_range.setValue(weblink);
 
   current_range = datasheet.getRange(2, 1);
   current_range.clear();
-  current_range.setValue("....");
+  current_range.setValue(weblink);
 }
